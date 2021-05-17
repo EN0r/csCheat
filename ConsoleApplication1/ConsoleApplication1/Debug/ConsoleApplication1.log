@@ -1,14 +1,35 @@
 ﻿  ConsoleApplication1.cpp
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(117,17): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(119,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(119,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(119,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(141,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(141,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(141,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(141,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(162,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(162,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(162,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(162,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(55,12): warning C4552: '-': result of expression not used
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(56,12): warning C4552: '-': result of expression not used
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(57,12): warning C4552: '-': result of expression not used
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(149,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(149,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(176,6): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(178,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(183,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(185,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(185,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(185,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(186,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\mFuncs.h(189,24): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(90,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(90,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(90,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(90,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(91,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(92,116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(92,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(92,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(92,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(113,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(113,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(113,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(113,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(115,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(116,113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(116,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(116,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(116,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(189,23): warning C4101: 'operatorN': unreferenced local variable
+C:\Users\eriah\source\repos\ConsoleApplication1\ConsoleApplication1\hackMain.h(226,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   ConsoleApplication1.vcxproj -> C:\Users\eriah\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
